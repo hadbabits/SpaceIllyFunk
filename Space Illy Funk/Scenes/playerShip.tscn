@@ -1,0 +1,142 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://Scripts/playerShip.gd" type="Script" id=1]
+[ext_resource path="res://Sprites/spaceVan.png" type="Texture" id=2]
+[ext_resource path="res://Sprites/dashboard.png" type="Texture" id=3]
+[ext_resource path="res://Sprites/dashboardRadioLight.png" type="Texture" id=4]
+
+[sub_resource type="RectangleShape2D" id=1]
+
+custom_solver_bias = 0.0
+extents = Vector2( 12.7003, 10 )
+
+[sub_resource type="RectangleShape2D" id=2]
+
+custom_solver_bias = 0.0
+extents = Vector2( 23.6559, 28.7549 )
+
+[sub_resource type="CircleShape2D" id=3]
+
+custom_solver_bias = 0.0
+radius = 4.61938
+
+[node name="playerShip" type="KinematicBody2D" index="0"]
+
+position = Vector2( 510.124, 300.912 )
+scale = Vector2( 2, 2 )
+z_index = 1
+input_pickable = false
+collision_layer = 1
+collision_mask = 1
+collision/safe_margin = 0.08
+script = ExtResource( 1 )
+_sections_unfolded = [ "Transform", "Z Index" ]
+
+[node name="shipArea" type="Area2D" parent="." index="0"]
+
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="shipArea" index="0"]
+
+position = Vector2( 0.5, -1 )
+shape = SubResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="." index="1"]
+
+texture = ExtResource( 2 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="2"]
+
+position = Vector2( 1, 2 )
+scale = Vector2( 0.333333, 0.333333 )
+z_index = -1
+shape = SubResource( 2 )
+_sections_unfolded = [ "Transform", "Z Index" ]
+
+[node name="bulletSpawn" type="Area2D" parent="." index="3"]
+
+position = Vector2( 1.00002, 2 )
+scale = Vector2( 0.333333, 0.333333 )
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="bulletSpawn" index="0"]
+
+position = Vector2( 0, -52 )
+shape = SubResource( 3 )
+
+[node name="bulletTime" type="Timer" parent="." index="4"]
+
+process_mode = 1
+wait_time = 1.0
+one_shot = true
+autostart = true
+
+[node name="Camera2D" type="Camera2D" parent="." index="5"]
+
+anchor_mode = 1
+rotating = false
+current = true
+zoom = Vector2( 1, 1 )
+limit_left = -10000000
+limit_top = -10000000
+limit_right = 10000000
+limit_bottom = 10000000
+limit_smoothed = false
+drag_margin_h_enabled = true
+drag_margin_v_enabled = true
+smoothing_enabled = false
+smoothing_speed = 5.0
+offset_v = 0.0
+offset_h = 0.0
+drag_margin_left = 0.0
+drag_margin_top = 0.0
+drag_margin_right = 0.0
+drag_margin_bottom = 0.0
+editor_draw_screen = true
+editor_draw_limits = false
+editor_draw_drag_margin = false
+_sections_unfolded = [ "Drag Margin" ]
+
+[node name="dashboard" type="Sprite" parent="Camera2D" index="0"]
+
+position = Vector2( -2.74242, 6.97351 )
+scale = Vector2( 0.517669, 0.517669 )
+z_index = 15
+texture = ExtResource( 3 )
+_sections_unfolded = [ "Z Index" ]
+
+[node name="dashboardLight" type="Sprite" parent="Camera2D/dashboard" index="0"]
+
+position = Vector2( -60.431, 199.863 )
+texture = ExtResource( 4 )
+_sections_unfolded = [ "Visibility" ]
+
+[node name="Timer" type="Timer" parent="Camera2D/dashboard/dashboardLight" index="0"]
+
+process_mode = 1
+wait_time = 1.0
+one_shot = false
+autostart = false
+
+[connection signal="area_entered" from="shipArea" to="." method="_on_shipArea_area_entered"]
+
+[connection signal="area_exited" from="shipArea" to="." method="_on_shipArea_area_exited"]
+
+[connection signal="timeout" from="bulletTime" to="." method="_on_bulletTime_timeout"]
+
+[connection signal="timeout" from="Camera2D/dashboard/dashboardLight/Timer" to="." method="_on_Timer_timeout"]
+
+
