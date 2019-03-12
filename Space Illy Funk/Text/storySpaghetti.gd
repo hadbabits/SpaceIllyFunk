@@ -21,4 +21,10 @@ The Wax Planet and the Candle Cove:
 	population found itself having to keep the flame going so they wouldn't freeze. Now the planet looked like a rotting apple, the top
 	collapsing in on itself.
 	
+	We pulled into port through a melty arch. "Hey! My paint job!" Sib exclaimed as hot wax spilled onto the car.
+	[later]
+	"I mean, this can't be sustainable, right?" The sheriff leaned back in his goofy recliner; the chair itself didn't lean back so much as it
+	just let him sink in. He popped his boots onto the rustic coffee table in front of him, the inprints suggesting that this isn't the first time.
+	"Guy, I'm just trying to make it to low brite[the evening]. The candle that worries about tomorrow burns at both ends, savvy?" I didn't. 
+	
 [Note: Could use 'ear' for 'hear', like 'Did you ear that?' or 'You ear'd what I said.'

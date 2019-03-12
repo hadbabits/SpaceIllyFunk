@@ -18,6 +18,20 @@ Narritive:
 		because you can't alone deal with something so large. The game will not end with you failing or succeeding in
 		saving the universe, but with the player deciding if they want to try at all.
 	
+	The digital people:
+		A group with a focus on technology and the vapidness of data. They're the lot responsible for maintaining the pRsd; even if
+		many of them have a blatant disregard for it, others wishing to capatilize on 'content'. 
+		
+		Maybe giving up their physical existence has driven them to a hinduist state of minnd; they see the physical world as an illusion and
+		aren't very concerned about the end of it: for them existence is a very passive experience, waiting for new content and changes to occur.
+		Could also drive the idea that they're espeically removed because we already live in our own worlds, they just live another layer deeper.
+		
+		They have a strange sense of identity: They frequently play with them since they're still reduced to avatars and usernames. What's more,
+		it's not uncommon for them to be living multiple lives with different social circles. 
+		
+		Cyber Space:
+			A lone charge station sits out in the middle of no where, that's where these people live. Plug in and you enter their cyber space.
+	
 	The Wax Planet:
 		Initially the founder of the wax planet just wanted the largest wax muesem in the world, but somehow the project spiraled in scale until
 		it became a world in itself. Unfortunately the great downsizing put it close to a star, and the collosal decorative wick at the planet's
