@@ -21,4 +21,4 @@ The Wax Planet and the Candle Cove:
 	population found itself having to keep the flame going so they wouldn't freeze. Now the planet looked like a rotting apple, the top
 	collapsing in on itself.
 	
-	
+[Note: Could use 'ear' for 'hear', like 'Did you ear that?' or 'You ear'd what I said.'

@@ -6,7 +6,7 @@
 [ext_resource path="res://Scenes/spaceTree.tscn" type="PackedScene" id=4]
 [ext_resource path="res://Scenes/radioSignal.tscn" type="PackedScene" id=5]
 
-[node name="MainSpace" type="Node" index="0"]
+[node name="MainSpace" type="Node"]
 
 [node name="space" type="Sprite" parent="." index="0"]
 
@@ -78,7 +78,5 @@ position = Vector2( -234.582, -1348.61 )
 [node name="radioSignal" parent="." index="17" instance=ExtResource( 5 )]
 
 position = Vector2( -397.374, -1350.12 )
-midRange = 1000
-closeRange = 500
 
 

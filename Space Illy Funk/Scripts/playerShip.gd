@@ -31,6 +31,7 @@ var sigDist
 
 var canShoot = true
 var nearSignal = false
+var touchedSource = false
 
 func _ready():
 	dashboardLight.hide()
@@ -66,7 +67,17 @@ func _physics_process(delta):
 			dashboardLightTimer.wait_time = 0.4
 		else: dashboardLightTimer.wait_time = 0.8
 	
-	print(dashboardLightTimer.time_left)
+	#Dashlight fade
+	if touchedSource:
+		var loc_srcMod = dashboardLight.get_modulate()
+		if loc_srcMod.a > 0:
+			dashboardLight.set_modulate(Color(1,1,1, loc_srcMod.a - 0.05))
+		else: 
+			touchedSource = false
+			dashboardLight.hide()
+			dashboardLight.set_modulate(Color(1,1,1,1))
+			dashboardLightTimer.wait_time = 0.8
+		
 	
 	#Shootin
 	if Input.is_action_pressed("ui_accept") && canShoot:
@@ -78,7 +89,6 @@ func _physics_process(delta):
 		bullet.position.y = global_position.y + 50
 		bullet.position.x = global_position.x
 		bullet.set_scale(Vector2(1,1))
-		print(bullet.rigidBod.angular_velocity)
 	
 	rotation += rotDir * 0.1 * delta
 	
@@ -87,23 +97,29 @@ func _physics_process(delta):
 	dashboard.global_position = camera.global_position
 	
 	move_and_collide(vel)
-
+	print(nearSignal)
 
 func _on_bulletTime_timeout():
 	canShoot = true
 
 func _on_shipArea_area_entered(area):
+	
 	if "Signal" in area.name:
 		nearSignal = true
-		sigArea = area
+		if sigArea == null:
+			sigArea = area
 		if dashboardLightTimer.is_stopped():
 			dashboardLight.show()
 			dashboardLightTimer.start()
+	
+	if "source" in area.get_parent().name:
+		touchedSource = true
 func _on_shipArea_area_exited(area):
 	if "Signal" in area.name:
 		nearSignal = false
-		dashboardLight.hide()
+		#dashboardLight.hide()
 		dashboardLightTimer.stop()
+		sigArea = null
 #Dashboard light timer
 func _on_Timer_timeout():
 	if nearSignal:

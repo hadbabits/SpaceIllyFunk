@@ -20,7 +20,7 @@ extents = Vector2( 23.6559, 28.7549 )
 custom_solver_bias = 0.0
 radius = 4.61938
 
-[node name="playerShip" type="KinematicBody2D" index="0"]
+[node name="playerShip" type="KinematicBody2D"]
 
 position = Vector2( 510.124, 300.912 )
 scale = Vector2( 2, 2 )
@@ -116,7 +116,7 @@ position = Vector2( -2.74242, 6.97351 )
 scale = Vector2( 0.517669, 0.517669 )
 z_index = 15
 texture = ExtResource( 3 )
-_sections_unfolded = [ "Z Index" ]
+_sections_unfolded = [ "Visibility", "Z Index" ]
 
 [node name="dashboardLight" type="Sprite" parent="Camera2D/dashboard" index="0"]
 
