@@ -18,6 +18,26 @@ Narritive:
 		because you can't alone deal with something so large. The game will not end with you failing or succeeding in
 		saving the universe, but with the player deciding if they want to try at all.
 	
+	The Wax Planet:
+		Initially the founder of the wax planet just wanted the largest wax muesem in the world, but somehow the project spiraled in scale until
+		it became a world in itself. Unfortunately the great downsizing put it close to a star, and the collosal decorative wick at the planet's
+		north pole proved even more unfortunate. By the downsizing's end it was out of range of the star, but was left in a cold spot, so the 
+		population found itself having to keep the flame going so they wouldn't freeze. Now the planet looked like a rotting apple, the top
+		collapsing in on itself.
+		
+		Their lives are built on ever shifting 'sands'; they're architecture is warped improv of the 'old world' always melting and shifting,
+		additions being slapped on where necassary. S'pose it could be a kind of 'physical internet' where all of pop culture, since the planet
+		is a facsimile of 'earth', gets mashed up 
+		
+		The Candle Cult:
+			A product of their environment, most of the cult members carry a stark sense that everything is finite and they're on a crash course
+			with oblivion whether they like it or not. They've adopted the 'cold death' of the universe as their religious doctrine: Heat death
+			was a concern during expansion, but ever since the Great Downsizing the opposite threat has been posed, that everything will be
+			consumed by fire as we're compacted by the forces of the universe. 
+			
+			The cult has ceremonies where they light candles, despite how obviously bad it is for their planet's situation. It gives many cult
+			members a small sense of agency. The world is ending, and they all wanna put a nail in the coffin, for various reasons.
+	
 	The Insect Tribe (Based on Digable Planets):
 		A people who believe the universe is centered around music and 'vibes'. They came from a planet of funk,
 		now defunct ('defunked' ha), but as long as they can find rythym among the stars they keep in good spirits;
@@ -35,14 +55,6 @@ Narritive:
 			
 			Humans: They identify as insects due to how small they feel against the universe
 		
-	
-	The Candle Cove Cult:
-		A group of cynics who've given up on the absurdity of existence. They predict, or at least depict, the end as being the 
-		heat death of the universe. For different reasons, be it a longing for a sense of meaningful agency or just petty spite,
-		this group has a practice involving blowing out candles to contribute to the heat death. 
-			This doesn't actually make any sense scientifically, I don't fink, but I still like it; the lack of sense only adds
-			to the impotence of it all. Though alternatively they could be burning shit all the time. If I decide to take
-			them in a more hedonistic direction that could work well; maybe even as a splinter group
 	
 	High Tech and the dummies who use it:
 		a focus on how no matter how advanced the technology, us everyday shmucks will be the one using it; in an earnest way
