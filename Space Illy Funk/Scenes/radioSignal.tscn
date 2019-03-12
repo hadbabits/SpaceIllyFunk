@@ -15,7 +15,7 @@ radius = 1768.82
 custom_solver_bias = 0.0
 radius = 3.4254
 
-[node name="radioSignal" type="Area2D"]
+[node name="radioSignal" type="Area2D" index="0"]
 
 input_pickable = true
 gravity_vec = Vector2( 0, 1 )
@@ -29,6 +29,8 @@ _sections_unfolded = [ "Transform" ]
 __meta__ = {
 "_edit_group_": true
 }
+midRange = 1000
+closeRange = 500
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." index="0"]
 
@@ -50,7 +52,7 @@ area_mask = 1
 
 stream = ExtResource( 3 )
 volume_db = 0.0
-pitch_scale = 1.0
+pitch_scale = 1.5
 autoplay = false
 max_distance = 2000.0
 attenuation = 5.65674
