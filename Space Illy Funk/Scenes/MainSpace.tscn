@@ -1,82 +1,68 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://Sprites/space.png" type="Texture" id=1]
 [ext_resource path="res://Scenes/spaceCan.tscn" type="PackedScene" id=2]
 [ext_resource path="res://Scenes/playerShip.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Scenes/spaceTree.tscn" type="PackedScene" id=4]
 [ext_resource path="res://Scenes/radioSignal.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Scenes/dialog.tscn" type="PackedScene" id=6]
 
-[node name="MainSpace" type="Node" index="0"]
+[node name="MainSpace" type="Node"]
 
-[node name="space" type="Sprite" parent="." index="0"]
-
+[node name="space" type="Sprite" parent="."]
 position = Vector2( 104.367, -284.91 )
 scale = Vector2( 5.72823, 6.53236 )
 texture = ExtResource( 1 )
-_sections_unfolded = [ "Transform" ]
 
-[node name="spaceCan" parent="." index="1" instance=ExtResource( 2 )]
+[node name="spaceCan" parent="." instance=ExtResource( 2 )]
 
-[node name="playerShip" parent="." index="2" instance=ExtResource( 3 )]
+[node name="playerShip" parent="." instance=ExtResource( 3 )]
 
-[node name="spaceTree" parent="." index="3" instance=ExtResource( 4 )]
-
+[node name="spaceTree" parent="." instance=ExtResource( 4 )]
 position = Vector2( 57.839, -1306.4 )
 
-[node name="spaceTree2" parent="." index="4" instance=ExtResource( 4 )]
-
+[node name="spaceTree2" parent="." instance=ExtResource( 4 )]
 position = Vector2( -466.711, -1018.5 )
 
-[node name="spaceTree3" parent="." index="5" instance=ExtResource( 4 )]
-
+[node name="spaceTree3" parent="." instance=ExtResource( 4 )]
 position = Vector2( 41.2584, -967.255 )
 
-[node name="spaceTree4" parent="." index="6" instance=ExtResource( 4 )]
-
+[node name="spaceTree4" parent="." instance=ExtResource( 4 )]
 position = Vector2( -141.128, -1206.92 )
 
-[node name="spaceTree5" parent="." index="7" instance=ExtResource( 4 )]
-
+[node name="spaceTree5" parent="." instance=ExtResource( 4 )]
 position = Vector2( -224.031, -1047.14 )
 
-[node name="spaceTree6" parent="." index="8" instance=ExtResource( 4 )]
-
+[node name="spaceTree6" parent="." instance=ExtResource( 4 )]
 position = Vector2( -211.972, -861.742 )
 
-[node name="spaceTree7" parent="." index="9" instance=ExtResource( 4 )]
-
+[node name="spaceTree7" parent="." instance=ExtResource( 4 )]
 position = Vector2( -47.6738, -1092.36 )
 
-[node name="spaceTree8" parent="." index="10" instance=ExtResource( 4 )]
-
+[node name="spaceTree8" parent="." instance=ExtResource( 4 )]
 position = Vector2( 133.205, -1140.6 )
 
-[node name="spaceTree9" parent="." index="11" instance=ExtResource( 4 )]
-
+[node name="spaceTree9" parent="." instance=ExtResource( 4 )]
 position = Vector2( -362.705, -916.006 )
 
-[node name="spaceTree10" parent="." index="12" instance=ExtResource( 4 )]
-
+[node name="spaceTree10" parent="." instance=ExtResource( 4 )]
 position = Vector2( -551.121, -766.781 )
 
-[node name="spaceTree11" parent="." index="13" instance=ExtResource( 4 )]
-
+[node name="spaceTree11" parent="." instance=ExtResource( 4 )]
 position = Vector2( -588.804, -919.021 )
 
-[node name="spaceTree12" parent="." index="14" instance=ExtResource( 4 )]
-
+[node name="spaceTree12" parent="." instance=ExtResource( 4 )]
 position = Vector2( -26.5714, -855.713 )
 
-[node name="spaceTree13" parent="." index="15" instance=ExtResource( 4 )]
-
+[node name="spaceTree13" parent="." instance=ExtResource( 4 )]
 position = Vector2( -533.033, -1339.56 )
 
-[node name="spaceTree14" parent="." index="16" instance=ExtResource( 4 )]
-
+[node name="spaceTree14" parent="." instance=ExtResource( 4 )]
 position = Vector2( -234.582, -1348.61 )
 
-[node name="radioSignal" parent="." index="17" instance=ExtResource( 5 )]
-
+[node name="radioSignal" parent="." instance=ExtResource( 5 )]
 position = Vector2( -397.374, -1350.12 )
 
+[node name="dialog" parent="." instance=ExtResource( 6 )]
+fileName = "res://Text/test1.gd"
 

@@ -17,6 +17,26 @@ Narritive:
 		upcoming disaster. The player won't save the system, it will be left in about the same state as when you arrived,
 		because you can't alone deal with something so large. The game will not end with you failing or succeeding in
 		saving the universe, but with the player deciding if they want to try at all.
+		
+		The Great Downsizing:
+			The universe kept expanding, until it didn't. Then it started shrinking, known as the great downsizing. This has had massive
+			effect across the system. Even now it still pulls everything closer to something.
+			
+			Maybe the universe 'breathes' so eventually expansion will occur again. 
+	
+	World state:
+		Post-tech ecenomical doldroms:
+			People are living day to day. Many populations rely on technologies from better times to sustain themselves, like the wax
+			people relying on a Mung-Bean shake machine for their food, despite their judgement of others in the system for their dependence.
+	
+	Slang ideas:
+		Could use 'ear' for 'hear', like 'Did you ear that?' or "You ear'd about that?"
+		Cuzz: Local term of endearment, based on 'cousin'; also used to describe people being friendly, "Why you being so cuzzy?" 
+		Swik: Means quick, 'Get it done, lickety-Swik like'
+		Liberal use of apostrophes for conciseness and flavour, "You ear'd me" (could also relate to the Downsizing)
+		S'muk: 'schmuck', sometimes modified to "s'mukker" (or maybe even udder s'mukker or s'muk head, if you wanna be scandolous) 
+		pRs'd (pRsd officially): The past, spelt out in AI SwikWrit(tm), refers parsed data of the old times. Pronounced like a pirate saying 'past' 
+		Toon: Refers to cartoons, as well as 'kooky' people; "Sorry about that, she's a little toony" 
 	
 	The digital people:
 		A group with a focus on technology and the vapidness of data. They're the lot responsible for maintaining the pRsd; even if
@@ -35,13 +55,18 @@ Narritive:
 	The Wax Planet:
 		Initially the founder of the wax planet just wanted the largest wax muesem in the world, but somehow the project spiraled in scale until
 		it became a world in itself. Unfortunately the great downsizing put it close to a star, and the collosal decorative wick at the planet's
-		north pole proved even more unfortunate. By the downsizing's end it was out of range of the star, but was left in a cold spot, so the 
-		population found itself having to keep the flame going so they wouldn't freeze. Now the planet looked like a rotting apple, the top
-		collapsing in on itself.
+		north pole proved even more unfortunate. By the downsizing's end it was out of range of the star, but was left in a cold spot,
+		ironic considering the downnsizing mostly seemed to be pulling heat inwaard, so the population found itself having to keep the 
+		flame going so they wouldn't freeze. Now the planet looked like a rotting apple, the top collapsing in on itself.
 		
 		Their lives are built on ever shifting 'sands'; they're architecture is warped improv of the 'old world' always melting and shifting,
-		additions being slapped on where necassary. S'pose it could be a kind of 'physical internet' where all of pop culture, since the planet
-		is a facsimile of 'earth', gets mashed up 
+		additions being slapped on where necassary. The wax folk, descendants of those employed at this massive tourist trap, have a
+		strong dedication to what they consider 'the old ways', but much like their planet, their ideas of what the pRs'd really was 
+		are warped often in favor of convenience and comfort.
+		
+		Everyone where's large brim hats and rain slickers unless they don't mind the occasional wax rain. 
+		
+		Sib hates how everything feels all waxy and oily.
 		
 		The Candle Cult:
 			A product of their environment, most of the cult members carry a stark sense that everything is finite and they're on a crash course
@@ -132,3 +157,26 @@ Mechanics:
 Aesthetic:
 	Space:
 		Maybe look into those wild shapes they used to throw in old cartoon with fast jazz going, if ye remember
+	
+	Architecture:
+		What is the style that defines a place?
+		
+		SwikStops/SystemStyle:
+			Round 3D printing: Rather than the ugly modern box look, keep a stark sense of practicality mixed with the idea of 
+			having things built with simple rounded shapes. This could be a good contrast to the concrete jungle. 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
