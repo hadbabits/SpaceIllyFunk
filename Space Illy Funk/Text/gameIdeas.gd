@@ -38,6 +38,19 @@ Narritive:
 		pRs'd (pRsd officially): The past, spelt out in AI SwikWrit(tm), refers parsed data of the old times. Pronounced like a pirate saying 'past' 
 		Toon: Refers to cartoons, as well as 'kooky' people; "Sorry about that, she's a little toony" 
 	
+	World state:
+		Post-tech ecenomical doldroms:
+			People are living day to day. Many populations rely on technologies from better times to sustain themselves, like the wax
+			people relying on a Mung-Bean shake machine for their food. 
+	
+	Slang ideas:
+		Could use 'ear' for 'hear', like 'Did you ear that?' or "You ear'd about that?"
+		Cuzz: Local term of endearment, based on 'cousin'; also used to describe people being friendly, "Why you being so cuzzy?" 
+		Swik: Means quick, 'Get it done, lickety-Swik like
+		Liberal use of apostrophes for conciseness and flavour, "You ear'd me" 
+		S'muk: 'schmuck', sometimes modified to "s'mukker" (or maybe even udder s'mukker or s'muk head, if you wanna be scandolous) 
+		pRs'd (pRsd officially): The past, spelt out in AI SwikWrit(tm), refers parsed data of the old times. Pronounced like a pirate saying 'past' 
+	
 	The digital people:
 		A group with a focus on technology and the vapidness of data. They're the lot responsible for maintaining the pRsd; even if
 		many of them have a blatant disregard for it, others wishing to capatilize on 'content'. 
