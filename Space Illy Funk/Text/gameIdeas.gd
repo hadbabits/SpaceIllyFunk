@@ -50,6 +50,7 @@ Narritive:
 		Liberal use of apostrophes for conciseness and flavour, "You ear'd me" 
 		S'muk: 'schmuck', sometimes modified to "s'mukker" (or maybe even udder s'mukker or s'muk head, if you wanna be scandolous) 
 		pRs'd (pRsd officially): The past, spelt out in AI SwikWrit(tm), refers parsed data of the old times. Pronounced like a pirate saying 'past' 
+		Toon: Refers to cartoons and 'loony' behaviour, sometimes 'toony' "This chick's all toony" 
 	
 	The digital people:
 		A group with a focus on technology and the vapidness of data. They're the lot responsible for maintaining the pRsd; even if
