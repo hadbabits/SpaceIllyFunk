@@ -23,25 +23,15 @@ Narritive:
 			effect across the system. Even now it still pulls everything closer to something.
 			
 			Maybe the universe 'breathes' so eventually expansion will occur again. 
+		
+		Climax:
+			Syb has a breakdown wondering if choices even matter if everywhere they go falls apart regardless, the protag has to try and
+			console them, eg "Just because our choices don't shape the world doesn't mean they can't matter to us" 
 	
 	World state:
 		Post-tech ecenomical doldroms:
 			People are living day to day. Many populations rely on technologies from better times to sustain themselves, like the wax
-			people relying on a Mung-Bean shake machine for their food, despite their judgement of others in the system for their dependence.
-	
-	Slang ideas:
-		Could use 'ear' for 'hear', like 'Did you ear that?' or "You ear'd about that?"
-		Cuzz: Local term of endearment, based on 'cousin'; also used to describe people being friendly, "Why you being so cuzzy?" 
-		Swik: Means quick, 'Get it done, lickety-Swik like'
-		Liberal use of apostrophes for conciseness and flavour, "You ear'd me" (could also relate to the Downsizing)
-		S'muk: 'schmuck', sometimes modified to "s'mukker" (or maybe even udder s'mukker or s'muk head, if you wanna be scandolous) 
-		pRs'd (pRsd officially): The past, spelt out in AI SwikWrit(tm), refers parsed data of the old times. Pronounced like a pirate saying 'past' 
-		Toon: Refers to cartoons, as well as 'kooky' people; "Sorry about that, she's a little toony" 
-	
-	World state:
-		Post-tech ecenomical doldroms:
-			People are living day to day. Many populations rely on technologies from better times to sustain themselves, like the wax
-			people relying on a Mung-Bean shake machine for their food. 
+			people relying on a Mung-Bean shake machine for their food, despite their judgement of others in the system for their dependence. 
 	
 	Slang ideas:
 		Could use 'ear' for 'hear', like 'Did you ear that?' or "You ear'd about that?"
@@ -51,20 +41,33 @@ Narritive:
 		S'muk: 'schmuck', sometimes modified to "s'mukker" (or maybe even udder s'mukker or s'muk head, if you wanna be scandolous) 
 		pRs'd (pRsd officially): The past, spelt out in AI SwikWrit(tm), refers parsed data of the old times. Pronounced like a pirate saying 'past' 
 		Toon: Refers to cartoons and 'loony' behaviour, sometimes 'toony' "This chick's all toony" 
+		
+		Digital People Slang:
+			prog: (pronunced 'pr-Oh-g') digizen of cyber space, short for program. 
+			chiproc: (pronunced 'chip-rick') A child of cyber space, short for child-process. Often shortened to 'chip'. They're not 
+				completely sentient yet. 
+			Deejit: Idiot, refers to 'digit' Usually pronounced by child processes like "YA DEEEE-JIT"
+			Deamon: (pronunced 'day-men') Refers to someone mischivous or conniving (daemons are background processes, you see), often 
+				aimed at chips. 
 	
-	The digital people:
-		A group with a focus on technology and the vapidness of data. They're the lot responsible for maintaining the pRsd; even if
-		many of them have a blatant disregard for it, others wishing to capatilize on 'content'. 
+	
+	The digital people - The hyper culture:
+		The digital people live very fast paced lives, due to their world situation. They live in a simulated world that requires formatting
+		every two space-weeks, this is required to keep the enormous amount of data from corrupting, and protect the pRsd. Any particular
+		program (a person here) will be lost as they are, but whatever waves they make in the society that sticks will be incorporated
+		to the next generation of programs- it's somewhat like reincarnation I guess. 
 		
-		Maybe giving up their physical existence has driven them to a hinduist state of minnd; they see the physical world as an illusion and
-		aren't very concerned about the end of it: for them existence is a very passive experience, waiting for new content and changes to occur.
-		Could also drive the idea that they're espeically removed because we already live in our own worlds, they just live another layer deeper.
+		Because of this many progs spend their time trying to impress each other in the hopes that some part of them will survive into the
+		future. Others focus on their child-processes: proto-progs that are basically children, they will retain much of their primary
+		framework during formatting, where they will become adult progs. 
 		
-		They have a strange sense of identity: They frequently play with them since they're still reduced to avatars and usernames. What's more,
-		it's not uncommon for them to be living multiple lives with different social circles. 
+		Progs who take on problematic behaviours are often assigned to the crypto mines ("It's not actually all that bad, the term is quite
+		 antiquated") where they chip away at the un-pRsd's encryption. Some volunteer, either because they hold the pRsd with some kind
+		of revereance or they hope to glean interesting information first-hand. 
 		
 		Cyber Space:
-			A lone charge station sits out in the middle of no where, that's where these people live. Plug in and you enter their cyber space.
+			The entrance is a lonely information kiosk sitting out in space. A notice is posted on the front: Maintainence every OTHER 
+			Tuesday. 
 	
 	The Wax Planet:
 		Initially the founder of the wax planet just wanted the largest wax muesem in the world, but somehow the project spiraled in scale until
