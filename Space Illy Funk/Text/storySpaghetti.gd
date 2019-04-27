@@ -30,34 +30,21 @@ The Air out There and Dereleict SwikStop:
 	off and you look back at the shelf. After brushing some loose vegetation away you can see someone had carved "I was here" into it, possibly
 	the doodler. The sickle stands patiently on the counter.
 		Carve your name:
-<<<<<<< HEAD
 			Give them, whoever they happen to be, something to remember you by
-			cause you can
-=======
-			Give them something to remember you by
-			Cuz you can
->>>>>>> master
+			cuz you can
 			You feel a sense of solidarity with the clerk of the past
 		or set the sickle back down:
 			Cuz this place won't last much longer
+			Nothing you could leave would be an accurate representation of yourself
 			it's dumb
 	
-<<<<<<< HEAD
-	As you finish carving/As you start to set the sickle down a shout sends you out of your skin, "What're y'all doing here?". I hold my hands up, sickle still in hand, until I
-=======
-	As you finish carving a shout sends you out of your skin, "What're y'all doing here?". I hold my hands up, sickle still in hand, until I
->>>>>>> master
-	quickly put it behind your back; though I realized he probably wasn't busting me for vandalism. The voice came from what appeared to be
-	an ol' timey cowboy complete with a sheriff star.
+	As you finish carving/As you start to set the sickle down a shout sends you out of your skin, "What're y'all doing here?". I hold my hands up, 
+	sickle still in hand, until I quickly put it behind your back; though I realized he probably wasn't busting me for vandalism. The voice came 
+	from what appeared to be an ol' timey cowboy complete with a sheriff star.
 	
 	"Prot put your hands down, no way this guy's legit. Let'g get out of here"
 	
-<<<<<<< HEAD
 	[Cut to overhead view showing that the can is being towed by the sheriff's ship]
-	
-=======
->>>>>>> master
-	[Next, space van gets towed by sheriff]
 
 The Wax Planet and the Candle Cove:
 	Initially the founder of the wax planet just wanted the largest wax muesem in the world, but somehow the project spiraled in scale until
@@ -73,12 +60,6 @@ The Wax Planet and the Candle Cove:
 	mechanisms, instead ships lazily bobbed in place, tied to the dock via ropes. 
 	[later]
 	"I mean, this can't be sustainable, right?" The sheriff leaned back in his goofy recliner; the chair itself didn't lean back so much as it
-<<<<<<< HEAD
 	just let him sink in. He popped his boots onto the what appeared to be a stone wheel, straihgt out of a caveman toon, the inprints 
 	suggesting that this isn't the first time. "Guy, I'm just trying to make it to low brite[the evening]. The candle that worries 
 	about tomorrow burns at both ends, savvy?" I didn't. 
-=======
-	just let him sink in. He popped his boots onto the rustic coffee table in front of him, the inprints suggesting that this isn't the first time.
-	"Guy, I'm just trying to make it to low brite[the evening]. The candle that worries about tomorrow burns at both ends, savvy?" I didn't. 
->>>>>>> master
-	
